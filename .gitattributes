@@ -1,1 +1,2 @@
 *.e filter=lfs -text
+*.pkg filter=lfs -text
